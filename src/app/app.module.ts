@@ -4,7 +4,6 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { QuoteComponent } from './quote/quote.component';
-import { GoalDetailComponent } from './goal-detail/goal-detail.component';
 import { QuoteDetailComponent } from './quote-detail/quote-detail.component';
 import { StrikethroughDirective } from './strikethrough.directive';
 import { DateCountPipe } from './date-count.pipe';
@@ -13,7 +12,6 @@ import { DateCountPipe } from './date-count.pipe';
   declarations: [
     AppComponent,
     QuoteComponent,
-    GoalDetailComponent,
     QuoteDetailComponent,
     StrikethroughDirective,
     DateCountPipe
