@@ -1,5 +1,7 @@
 body {
     background-color: greenyellow;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   form {
     margin: 0 auto;
