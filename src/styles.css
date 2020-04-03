@@ -1,51 +1,13 @@
-body {
-    background-color: greenyellow;
-    background-image: url(https://bit.ly/343aWDK);
+/* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://bit.ly/2R69zi8);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
-  }
-  form {
-    margin: 0 auto;
-    justify-content: center;
-    text-align: 1.5px;
-    border-radius: 1.5px;
-  }
-  textarea {
-    width: 100%;
-    border-radius: 1.5px;
-  }
-  button {
+}
+#pol{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+#lop{
     text-align: center;
-  }
-  
-  ul {
-    display: flex;
-    justify-content: space-around;
-    margin: 3%;
-    list-style-type: none;
-    flex-wrap: wrap;
-  }
-  li {
-    text-align: center;
-    font-size: 2em;
-    border-radius: 0.5em;
-    width: 30%;
-  }
-  
-  .fa {
-    padding: 10px;
-
-  }
-  
-  .like {
-    color: green;
-  }
-  .dislike {
-    color: brown;
-  }
-  
-  .quote {
-    color: navy;
-    font-weight: bolder;
-  }
+}

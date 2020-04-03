@@ -15,7 +15,7 @@ export class QuoteDetailComponent implements OnInit {
   }
 
 
-  // constructor() { }
+  constructor() { }
 
   ngOnInit(){
   }
