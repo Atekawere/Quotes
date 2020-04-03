@@ -15,14 +15,11 @@ Angular CLI
 
 There are no known bug at the moment ,But if you encounter any do not hesitate to reach me through jacintawere2@gmail.com
 
-## Running unit tests
+## Check it out[link](https://atekawere.github.io/Quotes/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## BDD
+The user has to input his/her name on the form provided,quote and the author
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+##  LICENCE MIT 2020
 
-## 
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
