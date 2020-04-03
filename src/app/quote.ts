@@ -1,6 +1,6 @@
 export class Quote {
+    public name:string;
     public quote:string;
-    public publisher:string;
-    public author :string;
+    public author:string;
     
 }

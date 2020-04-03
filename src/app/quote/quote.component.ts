@@ -11,22 +11,24 @@ export class QuoteComponent implements OnInit {
 
   quotes: Quote [] =[
     {
-      publisher: "Jacinta",
+
+      name: "Jacinta",
       quote: "Work in silence and let them rejoice your success in public with joiyous noise.",
       author: "Florence",
     },
-
     {
-    publisher: "Hadren",
+
+    name: "Hadren",
     quote: "Find a job you enjoy doing and you will never have to work a day.",
     author: "Hadren",
     },
-
     {
-      publisher: "Luis",
-      quote: "The warmer the blanket the colder the future.",
-      author: "Draize",
-    },
+    name: "Jacinta",
+    quote: "The warmer the blanket the colder the future.",
+    author: "Draize",
+  },
+
+
   ];
 
   addQuote(quotes){
