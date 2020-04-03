@@ -21,5 +21,6 @@ There are no known bug at the moment ,But if you encounter any do not hesitate t
 ## BDD
 The user has to input his/her name on the form provided,quote and the author
 
-##  LICENCE MIT 2020
+##  LICENCE 
+MIT 2020
 
