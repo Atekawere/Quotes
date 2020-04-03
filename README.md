@@ -1,6 +1,6 @@
 # Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+An app that allows the user to insert their own thought quotes so as to motivate others.
 
 ## Development server
 
