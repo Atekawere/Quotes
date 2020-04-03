@@ -1,15 +1,12 @@
 .jumbotron {
     align-content: center;
     text-align: center;
-    background-image: url("https://bit.ly/2LdMqHO");
+    /* background-image: url("https://bit.ly/2LdMqHO"); */
     color: blue;
     margin-bottom: 0;
     font-size: 50px;
   }
   
-  #two {
-    background-image: url("https://bit.ly/2LdMqHO");
-  }
   
   #lol {
     justify-content: center;
@@ -47,7 +44,7 @@
   #one {
     align-content: center;
     text-align: center;
-    background-image: url("/assets/free.jpg");
+    /* background-image: url("/assets/free.jpg"); */
     color: burlywood;
     font-size: 16px;
   }

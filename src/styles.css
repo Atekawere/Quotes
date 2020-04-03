@@ -3,6 +3,7 @@ body {
     background-image: url(https://bit.ly/343aWDK);
     background-repeat: no-repeat;
     background-size: cover;
+    color: white;
   }
   form {
     margin: 0 auto;

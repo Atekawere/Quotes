@@ -11,19 +11,19 @@ export class QuoteComponent implements OnInit {
 
   quotes: Quote [] =[
     {
-      name: "Jacinta",
+      publisher: "Jacinta",
       quote: "Work in silence and let them rejoice your success in public with joiyous noise.",
       author: "Florence",
     },
 
     {
-    name: "Hadren",
+    publisher: "Hadren",
     quote: "Find a job you enjoy doing and you will never have to work a day.",
     author: "Hadren",
     },
 
     {
-      name: "Luis",
+      publisher: "Luis",
       quote: "The warmer the blanket the colder the future.",
       author: "Draize",
     },
